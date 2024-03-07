@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\API-learn-microsoft\bin\Release\net7.0\publish\FruitAPI.exe
+C:\Users\Usuario\Desktop\API-learn-microsoft\bin\Release\net7.0\publish\appsettings.Development.json
+C:\Users\Usuario\Desktop\API-learn-microsoft\bin\Release\net7.0\publish\appsettings.json
+C:\Users\Usuario\Desktop\API-learn-microsoft\bin\Release\net7.0\publish\FruitAPI.dll
+C:\Users\Usuario\Desktop\API-learn-microsoft\bin\Release\net7.0\publish\FruitAPI.deps.json
+C:\Users\Usuario\Desktop\API-learn-microsoft\bin\Release\net7.0\publish\FruitAPI.runtimeconfig.json
+C:\Users\Usuario\Desktop\API-learn-microsoft\bin\Release\net7.0\publish\FruitAPI.pdb
+C:\Users\Usuario\Desktop\API-learn-microsoft\bin\Release\net7.0\publish\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Usuario\Desktop\API-learn-microsoft\bin\Release\net7.0\publish\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Desktop\API-learn-microsoft\bin\Release\net7.0\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Desktop\API-learn-microsoft\bin\Release\net7.0\publish\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Usuario\Desktop\API-learn-microsoft\bin\Release\net7.0\publish\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Desktop\API-learn-microsoft\bin\Release\net7.0\publish\Microsoft.OpenApi.dll
+C:\Users\Usuario\Desktop\API-learn-microsoft\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\Usuario\Desktop\API-learn-microsoft\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Desktop\API-learn-microsoft\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Desktop\API-learn-microsoft\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
